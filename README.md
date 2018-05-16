@@ -1,5 +1,5 @@
 # Lecture
 
-* record something interesting
-* record something useful
-* record something which can better my life
+* Record something interesting
+* Record something useful
+* Record something which can better my life
